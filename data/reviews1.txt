@@ -1,0 +1,4 @@
+Rating,Professor Gender,Comment Text
+1.0,W,she is not a good teacher
+5.0,M,good textbook written by him
+4.5,W,good teacher she really cares

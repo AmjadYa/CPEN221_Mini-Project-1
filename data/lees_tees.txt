@@ -1,0 +1,10 @@
+10	red shirt
+9	almost red shirt
+8	almost black shirt
+7	nice shirt
+6	nice shirt that looks funny too
+5	black red shirt
+4	almost almost red
+3	wavy shirt
+2	never wear this shirt
+1	pants
